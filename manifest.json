@@ -8,7 +8,8 @@
    "icons": {
       "32": "icon32.png"
    },
-   "name": "Autocomplete on",
+   "name": "Enable Autocomplete",
+   "author": "Grant Emsley <grant@emsley.ca>",
    "version": "1.0",
     "manifest_version": 2
 }
